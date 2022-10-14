@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 #navbar{
     background-color: rgb(93, 178, 125);
 }
@@ -5,7 +10,7 @@
 .navigation-bar{
     /* position:fixed; */
     background-color: rgb(72, 123, 176);
-    width:99%;
+    width:100%;
     margin-top:1%;
 }
 
@@ -29,6 +34,7 @@
 }
 
 #lb{
+    width:100%;
     float:left;
     margin-left:2%;
     margin-bottom:2%;
